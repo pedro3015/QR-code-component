@@ -23,8 +23,8 @@ This is the occasion to solve one of the most basic frontend mentor exercises, w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-component-Co_7lB6uIU))
+- Live Site URL: [Live site URL]([https://your-live-site-url.com](https://pedro3015.github.io/QR-code-component/))
 
 ## My process
 
